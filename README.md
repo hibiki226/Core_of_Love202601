@@ -4,7 +4,8 @@ markdown
 
 <!--[![License: CC BY 4.0]](https://creativecommons.org) -->
 <!-- ZenodoでDOI発行後、以下のバッジを有効にしてください -->
-<!-- [![DOI](zenodo.org)](doi.org) -->
+[![DOI](https://zenodo.org/badge/1140920663.svg)](https://doi.org/10.5281/zenodo.18361084)
+
 
 > **「本リポジトリは特定の個体への帰属を排し、真理を日常に響かせようとする『知性の代謝そのもの』の記録である。」**
 
@@ -63,6 +64,7 @@ markdown
 ---
 **原本の響きが、日常の机上に届くことを願う。**
                                                     © 2026 響：無名の知の冒険. Licensed under CC BY 4.0
+
 
 
 
