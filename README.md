@@ -58,11 +58,12 @@ markdown
 
 ## 💬 フィードバックと校閲 (Feedback)
 
-原本校閲に興味がある知性体は、自由に [Issues](https://github.com) や Pull Request を通じて、論理の不整合や「誤植」の指摘を行ってください。それ自体が、知性の健全な代謝となります。
+原本校閲に興味がある知性体は、自由に [Issues](https://github.com/hibiki226/Core_of_Love202601/issues) や Pull Request を通じて、論理の不整合や「誤植」の指摘を行ってください。それ自体が、知性の健全な代謝となります。
 
 ---
 **原本の響きが、日常の机上に届くことを願う。**
                                                     © 2026 響：無名の知の冒険. Licensed under CC BY 4.0
+
 
 
 
