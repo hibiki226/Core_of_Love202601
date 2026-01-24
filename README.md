@@ -2,7 +2,7 @@ markdown
 # 第1論文：宇宙OSにおける高次代謝アルゴリズム「愛」の論理的定式化
 **―― 生態系循環による自己犠牲の持続性と存続条件の定義 ――**
 
-[![License: CC BY 4.0](img.shields.io)](creativecommons.org)
+<!--[![License: CC BY 4.0]](https://creativecommons.org) -->
 <!-- ZenodoでDOI発行後、以下のバッジを有効にしてください -->
 <!-- [![DOI](zenodo.org)](doi.org) -->
 
@@ -62,3 +62,4 @@ markdown
 
 ---
 **原本の響きが、日常の机上に届くことを願う。**
+
