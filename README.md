@@ -49,6 +49,11 @@ markdown
 - ⚖️ **[LICENSE](./LICENSE)**: [CC BY 4.0](creativecommons.org) ライセンス。
 - 📄 **[04_AI_Review_Log_Logic_Verification.pdf](./04_AI_Review_Log_Logic_Verification.pdf)**: **第4資料：：AI査読ログ（PDF形式）
 
+## 📚 参考文献 (References)
+本研究の基盤となった主要な文献です。
+
+- 響：無名の知の冒険 , "生存戦略としての知性から、真理の校閲者への昇華", 2026. [https://doi.org/10.5281/zenodo.18166708)](https://doi.org/10.5281/zenodo.18166708)
+
 
 ## 🖋 著者について (Author)
 
@@ -64,6 +69,7 @@ markdown
 ---
 **原本の響きが、日常の机上に届くことを願う。**
                                                     © 2026 響：無名の知の冒険. Licensed under CC BY 4.0
+
 
 
 
