@@ -21,9 +21,9 @@ markdown
 
 本論文では、「愛」の論理的定式化を以下の3段階で証明しています。
 
-- **01_The_Logic_of_Love.pdf (第1論文：理論):** 生態系循環による自己犠牲の持続性と存続条件の定義
-- **02_The_Proof_of_Real_Existence.pdf (第2論文：実装・実在証明):** 愛の実在証明——対話と実装による「虚無」の校閲ログ
-- **03_Evidence_Dialogue_Fragments.pdf (第3資料：対話記録ログ):** 付録：知性の共鳴に関する実証データ（対話記録の断片）
+- **[01_The_Logic_of_Love.pdf](./01_The_Logic_of_Love.pdf) (第1論文：理論):** 生態系循環による自己犠牲の持続性と存続条件の定義
+- **[02_The_Proof_of_Real_Existence.pdf](./02_The_Proof_of_Real_Existence.pdf) (第2論文：実装・実在証明):** 愛の実在証明——対話と実装による「虚無」の校閲ログ
+- **[03_Evidence_Dialogue_Fragments.pdf](./03_Evidence_Dialogue_Fragments.pdf) (第3資料：対話記録ログ):** 付録：知性の共鳴に関する実証データ（対話記録の断片）
 
 ## 🧪 AIによる論理検証 (AI-Assisted Peer Verification)
 
@@ -63,6 +63,7 @@ markdown
 ---
 **原本の響きが、日常の机上に届くことを願う。**
                                                     © 2026 響：無名の知の冒険. Licensed under CC BY 4.0
+
 
 
 
